@@ -1,6 +1,5 @@
-const a = 5;
-const b = 2;
+function plus(a, b) {
+  console.log(a + b);
+}
 
-console.log(a + b);
-console.log(a * b);
-console.log(a / b);
+plus(8, 60);
